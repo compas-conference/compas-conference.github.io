@@ -1,9 +1,33 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
+
   <body>
+	<div class="wrapper">
+	    <header>
+	        {% if site.compass.logo %}
+	        <div class="logo-container">
+	          <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
+	        </div>
+	        {% endif %}
 
-  {{ content }}
+	        {% if site.compass.author %}
+	        <div class="author-container"><h1>{{ site.compass.author }}</h1></div>
+	        {% endif %}
 
+	        {% if site.compass.tagline %}
+	        <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
+	        {% endif %}
+
+	       	<nav class="nav">
+	            <a href="/comites/pilotage">Pilotage</a><br/>
+	            <a href="/organisation/charte">Charte</a>
+	        </nav>
+
+	    </header>
+	    <main>
+		  {{ content }}
+	    </main>
+	</div>
   </body>
 </html>

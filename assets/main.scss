@@ -3,7 +3,7 @@
 
 $text-color: #46433A;
 $anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+$background-color: #EEEEEE;
 
 body {
 	font-family: 'Vollkorn', serif;
@@ -72,6 +72,7 @@ since it must be aligned with the content */
 
 /*** author ***/
 .author-container h1 {
+	color: #CE534D;
 	font-size: 2.8em;
 	margin-top: 0;
 	margin-bottom: 0;
@@ -120,19 +121,19 @@ footer {
 	}
 }
 
-/* All other devices (768px and up) */
-@media (min-width: 768px) {
-	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
+/* All other devices (800px and up) */
+@media (min-width: 800px) {
+	/* past 800px the layout is changed and the wrapper has a fixed width of 800px
 	to accomodate both the header column and the content column */
 	.wrapper {
-		width: 680px;
+		width: 800px;
 	}
 
 	/* the header column stays left and has a dynamic width with all contents
 	aligned right */
 	header {
 		float: left;
-		width: 46%;
+		width: 36%;
 		text-align: right;
 	}
 
@@ -143,7 +144,7 @@ footer {
 	}
 
 	main {
-		width: 46%;
+		width: 56%;
 		margin-left: 54%;
 		padding: 0;
 	}
