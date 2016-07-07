@@ -4,7 +4,7 @@ title: Compas conference
 tagline: editions
 ---
 * **Compas 2017** : 
-* **Compas 2016** : [Lorient 2016](http://compas2016.sciencesconf.org)
+* **Compas 2016** : [Lorient 2016](http://2016.compas-conference.fr)
 * **Compas 2015** : [Lille 2015](http://compas15.lifl.fr)
 * **Compas 2014** : [Neuchâtel 2014](http://compas2014.unine.ch), Suisse
 * **ComPAS 2013** : RenPar’21 / SympA’15 / CFSE 9 ([Grenoble 2013](http://compas2013.inrialpes.fr))
