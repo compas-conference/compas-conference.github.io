@@ -3,7 +3,7 @@ layout: base
 title: Compas conference
 tagline: editions
 ---
-* **Compas 2017** : 
+* **Compas 2017** : [Nice 2017](https://compas2017.sciencesconf.org)
 * **Compas 2016** : [Lorient 2016](http://2016.compas-conference.fr)
 * **Compas 2015** : [Lille 2015](http://compas15.lifl.fr)
 * **Compas 2014** : [Neuchâtel 2014](http://compas2014.unine.ch), Suisse
