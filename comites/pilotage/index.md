@@ -4,9 +4,9 @@ title: Compas conference
 tagline: comite pilotage
 ---
 ## Comité de pilotage
+* *Philippe* **Coussy** (Lorient)
 * *Loïc* **Lagadec** (Brest)
-* *Vania* **Marangozova** (Grenoble)
 * *Laurent* **Réveillère** (Bordeaux) - **Président**
-* *Etienne* **Rivière** (Neuchâtel)
+* *Étienne* **Rivière** (Neuchâtel)
 * *Romain* **Rouvoy** (Lille)
 * *Cédric* **Tedeschi** (Rennes)
