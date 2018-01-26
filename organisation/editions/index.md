@@ -3,7 +3,7 @@ layout: base
 title: Compas conference
 tagline: editions
 ---
-* **Compas 2018** : Toulouse 2018
+* **Compas 2018** : [Toulouse 2018](http://2018.compas-conference.fr/)
 * **Compas 2017** : [Nice 2017](https://compas2017.sciencesconf.org)
 * **Compas 2016** : [Lorient 2016](http://2016.compas-conference.fr)
 * **Compas 2015** : [Lille 2015](http://compas15.lifl.fr)
