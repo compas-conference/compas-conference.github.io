@@ -6,7 +6,7 @@ tagline: comite pilotage
 
 ## Comité de pilotage
 * *André-Luc* **Beylot** (Représentant GDR RSD, Toulouse)
-* *Sylvain* **Collange** (Représentant Architecture, Brest, depuis 04/2018)
+* *Sylvain* **Collange** (Représentant Architecture, Rennes, depuis 04/2018)
 * *Philippe* **Coussy** (Organisateur 2016, Lorient)
 * *Fabien* **Hermenier** (Organisateur 2017, Nice)
 * *Laurent* **Réveillère** (Représentant Système, Bordeaux) - **Président**
