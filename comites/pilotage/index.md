@@ -6,10 +6,14 @@ tagline: comite pilotage
 
 ## Comité de pilotage
 * *André-Luc* **Beylot** (Représentant GDR RSD, Toulouse)
+* *Sylvain* **Collange** (Représentant Architecture, Brest, depuis 04/2018)
 * *Philippe* **Coussy** (Organisateur 2016, Lorient)
 * *Fabien* **Hermenier** (Organisateur 2017, Nice)
-* *Loïc* **Lagadec** (Représentant Architecture, Brest)
 * *Laurent* **Réveillère** (Représentant Système, Bordeaux) - **Président**
 * *Étienne* **Rivière** (Représentant ASF, Bruxelles)
 * *Romain* **Rouvoy** (Organisateur 2015, Lille)
 * *Cédric* **Tedeschi** (Représentant Parallélisme, Rennes)
+
+
+## Anciens membres
+* *Loïc* **Lagadec** (Représentant Architecture, 07/2015 - 04/2018)
