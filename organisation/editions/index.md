@@ -3,7 +3,7 @@ layout: base
 title: Compas conference
 tagline: editions
 ---
-* **Compas 2019** : Anglet
+* **Compas 2019** : [Anglet](http://2019.compas-conference.fr/)
 * **Compas 2018** : [Toulouse](http://2018.compas-conference.fr/)
 * **Compas 2017** : [Nice](https://compas2017.sciencesconf.org)
 * **Compas 2016** : [Lorient](http://2016.compas-conference.fr)
