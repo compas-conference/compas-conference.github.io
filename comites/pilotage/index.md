@@ -15,8 +15,6 @@ tagline: comite pilotage
 * *André-Luc* **Beylot** (Représentant GDR RSD, Toulouse)
 * *Kevin* **Martin** (Représentant GDR SOC², Lorient)
 * *Étienne* **Rivière** (Représentant ASF, Bruxelles)
-
-### 
 * *Fabien* **Hermenier** (Organisateur 2017, Nice)
 * *Philippe* **Roose** (Organisateur 2019, Anglet)
 * *Alain* **Tchana** (Organisateur 2018, Toulouse)
