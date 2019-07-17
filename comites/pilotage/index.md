@@ -9,7 +9,7 @@ tagline: comite pilotage
 ### Membres élus 
 * *Sylvain* **Collange** (Représentant Architecture, Rennes, depuis 04/2018)
 * *Gilles* **Muller** (Représentant Système, Rennes, depuis 07/2019)
-* *Cédric* **Tedeschi** (Représentant Parallélisme, Rennes, depuis 07/2015)
+* *Emmanuel* **Agullo** (Représentant Parallélisme, Bordeaux, depuis 07/2019)
 
 ### Membres es-qualité
 * *André-Luc* **Beylot** (Représentant GDR RSD, Toulouse)
@@ -19,9 +19,9 @@ tagline: comite pilotage
 * *Philippe* **Roose** (Organisateur 2019, Anglet)
 * *Alain* **Tchana** (Organisateur 2018, Toulouse)
 
-
 ## Anciens membres
 * *Loïc* **Lagadec** (Représentant Architecture, 07/2015 - 04/2018)
 * *Romain* **Rouvoy** (Organisateur 2015, Lille, 07/2015 - 07/2018)
 * *Laurent* **Réveillère** (Représentant Système, Bordeaux, 07/2015 - 07/2019, *Président* )
 * *Philippe* **Coussy** (Organisateur 2016, Lorient)
+* *Cédric* **Tedeschi** (Représentant Parallélisme, Rennes, 07/2015 - 07/2019)
