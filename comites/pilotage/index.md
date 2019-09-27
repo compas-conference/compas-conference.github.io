@@ -7,8 +7,13 @@ tagline: comite pilotage
 ## Comité de pilotage
 
 ### Membres élus 
+<<<<<<< HEAD
 * *Caroline* **Collange** (Représentante Architecture, Rennes, depuis 04/2018)
 * *Gilles* **Muller** (Représentant Système, Rennes, depuis 07/2019)
+=======
+* *Sylvain* **Collange** (Représentant Architecture, Rennes, depuis 04/2018)
+* *Gilles* **Muller** (Représentant Système, Rennes, depuis 07/2019, **Président**)
+>>>>>>> f85e15098f0242fb1ab379619992be0c378fc813
 * *Emmanuel* **Agullo** (Représentant Parallélisme, Bordeaux, depuis 07/2019)
 
 ### Membres es-qualité
