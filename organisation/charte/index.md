@@ -22,7 +22,6 @@ Compas couvre trois thématiques : **parallélisme, architecture et systèmes**.
 
 ## Structure et organisation
 
-
 Compas est doté d'un **comité de pilotage permanent qui est responsable du suivi et de l’évolution de la conférence**. Le comité de pilotage est constitué de membres élus représentant chaque thématique et de membres es-qualité. Chaque thématique organise une élection en son sein pour désigner un représentant. Les membres élus siègent pour une durée de 3 ans. Sont éligibles les membres des comités de programmes sur les 3 dernières éditions. Les présidents des comités d’organisation des 3 éditions précédents sont membres es-qualités. Les représentants du GdR RSD, du GdR SOC2 et de l'ASF sont également membres du comité de pilotage. Le comité de pilotage élit un président parmi les membres élus. Le mandat du président du comité est de quatre ans.
 
 
