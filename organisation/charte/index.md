@@ -22,20 +22,20 @@ Compas couvre trois thématiques : **parallélisme, architecture et systèmes**.
 
 ## Structure et organisation
 
-Compas est doté d'un **comité de pilotage permanent qui est responsable du suivi et de l’évolution de la conférence**. Le comité de pilotage est constitué de membres élus représentant chaque thématique et de membres es-qualité. Chaque thématique organise une élection en son sein pour désigner un représentant. Les membres élus siègent pour une durée de 3 ans. Sont éligibles les membres des comités de programmes sur les 3 dernières éditions. Les présidents des comités d’organisation des 3 éditions précédents sont membres es-qualités. Les représentants du GdR RSD, du GdR SOC2 et de l'ASF sont également membres du comité de pilotage. Le comité de pilotage élit un président parmi les membres élus. Le mandat du président du comité est de quatre ans.
+Compas est doté d'un **comité de pilotage permanent qui est responsable du suivi et de l’évolution de la conférence**. Le comité de pilotage est constitué de membres élus représentant chaque thématique et de membres es-qualité. Chaque thématique organise une élection en son sein pour désigner un représentant. Les membres élus siègent pour une durée de 3 ans. Sont éligibles les membres des comités de lecture sur les 3 dernières éditions. Les présidents des comités d’organisation des 3 éditions précédents sont membres es-qualités. Les représentants du GdR RSD, du GdR SOC2 et de l'ASF sont également membres du comité de pilotage. Le comité de pilotage élit un président parmi les membres élus. Le mandat du président du comité est de quatre ans.
 
 
-Le comité de pilotage désigne pour chaque édition de la conférence un comité d’organisation suite à un appel à candidature public. Le comité d’organisation est constitué d’un président unique qui est l’interlocuteur du comité de pilotage. Celui-ci est le garant du respect de la présente charte, forme une équipe d’organisation avec des rôles clairement définis et en informe le comité de pilotage.
+Le comité de pilotage désigne pour chaque édition de la conférence un comité d’organisation suite à un appel à candidature public. Le comité d’organisation est dirigé par un président unique qui est l’interlocuteur du comité de pilotage. Celui-ci est le garant du respect de la présente charte, forme une équipe d’organisation avec des rôles clairement définis et en informe le comité de pilotage.
 
 
-Le comité de pilotage désigne pour chaque édition de la conférence des personnalités scientifiques et les chargent de la proposition d’un comité de programme. Ces présidents du comité de programme forment, en concertation avec le comité de pilotage, un comité de programme formé d’experts couvrant l'intégralité des thématiques de la conférence. La composition du comité doit viser une taille raisonnable, une couverture géographique, et favoriser le renouvellement de ses membres d'une édition à l'autre.
+Le comité de pilotage désigne pour chaque édition de la conférence des personnalités scientifiques et les chargent de la proposition d’un comité de lecture. Ces présidents du comité de lecture forment, en concertation avec le comité de pilotage, un comité de lecture formé d’experts couvrant l'intégralité des thématiques de la conférence. La composition du comité doit viser une taille raisonnable, une couverture géographique, et favoriser le renouvellement de ses membres d'une édition à l'autre.
 
 
 ## Types de contributions
 
 Compas propose deux options aux membres de la communauté pour présenter leurs travaux. Ces deux options sont complémentaires et répondent à des besoins différents :
 
-- Articles : Les articles classiques feront l'objet d'une évaluation poussée par le comité de programme, qui fournira des rapports détaillés. Un article classique fait 6 pages, auxquelles peuvent être ajoutées jusqu'à 6 pages de matériel complémentaire (références, annexes, preuves, etc.). Les auteurs d'articles seront invités à présenter leurs travaux pendant 20 minutes lors de la conférence, suivi d'une séance de questions/réponses de 10 minutes. Les articles classiques sont un moyen d'obtenir un retour écrit détaillé sur des travaux et sont donc particulièrement conseillés pour les doctorants ou chercheurs visant une publication ultérieure dans une conférence internationale ou un journal.
+- Articles : Les articles classiques feront l'objet d'une évaluation poussée par le comité de lecture, qui fournira des rapports détaillés et constructifs. Un article classique fait 6 pages, auxquelles peuvent être ajoutées jusqu'à 6 pages de matériel complémentaire (références, annexes, preuves, etc.). Les auteurs d'articles seront invités à présenter leurs travaux pendant 20 minutes lors de la conférence, suivi d'une séance de questions/réponses de 10 minutes. Les articles classiques sont un moyen d'obtenir un retour écrit détaillé sur des travaux et sont donc particulièrement conseillés pour les doctorants ou chercheurs visant une publication ultérieure dans une conférence internationale ou un journal.
 
 - Résumés :
   Les présentations sur la base de résumé feront l'objet d'une évaluation plus
@@ -45,7 +45,7 @@ Compas propose deux options aux membres de la communauté pour présenter leurs 
   publiés dans un forum international (conférence ou journal), susceptibles
   d'intéresser la communauté. Les présentations sur la base de résumé sont un
   moyen de présenter des travaux lors de la conférence mais ne reçoivent pas de
-  commentaires écrits du comité de programme. Par défaut, les auteurs de résumés sont invités à présenter leurs travaux pendant 10 minutes, suivi d'une séance de questions/réponses de 5 minutes.
+  commentaires écrits du comité de programme. Les auteurs de résumés sont invités à présenter leurs travaux pendant 10 minutes, suivi d'une séance de questions/réponses de 5 minutes.
 
 ### Langue
 
@@ -71,6 +71,8 @@ préférence de ne pas faire de présentation orale.
 
 La conférence comprend également un ou plusieurs exposés invités longs, de personnalités scientifiques de premier plan invitées par le comité de pilotage. Ces exposés se déroulent en séance plénière et peuvent durer jusqu’à une heure, questions comprises. La conférence comprend aussi une session poster ainsi que des activités sociales incluant au minimum un diner de gala. Enfin, la conférence comprend des ateliers et tutoriels sélectionnés par le comité d’organisation suite à un appel à proposition public.
 
+Le comité d'organisation et les présidents du comité de lecture sont invités à mettre en place des structures d'échange privilégiée en un-à-un entre les membres volontaires seniors de la communauté et les jeunes chercheurs, sous la forme par exemple de mentoring pendant la conférence ou de café virtuel en amont de celle ci.
+
 ## Politique de publication
 
 Compas n'a pas pour objectif de remplacer une publication dans une conférence
@@ -79,16 +81,16 @@ participants mais ne seront pas mis à disposition publiquement sur le web. Les 
 une collection dédiée à la conférence, mise en place par le comité d'organisation. La publication sur HAL n'est pas une obligation afin de ne
 pas compromettre une publication des mêmes travaux dans un forum international.
 
-## Rôle du comité de programme
+## Rôle du comité de lecture
 
-Le président du comité d'organisation met en place un outil de gestion du processus d'évaluation comme Easychair ou HotCRP. Il n'y a pas de notion de track ou de groupe thématique.
+Le président du comité d'organisation met en place un outil de gestion du processus de lecture comme Easychair ou HotCRP. Il n'y a pas de notion de track ou de groupe thématique.
 
 La sélection des résumés est faite par les présidents du comité de programme sur la base de l'adéquation thématique à la conférence. Il n'est pas prévu de fournir une évaluation détaillée des résumés.
 
-Les membres du comité de programme doivent être invités à annoncer leurs intérêts pour les articles soumis (*bidding*). Les présidents du comité de programme allouent les articles aux membres du comité de programme selon leurs intérêts et leur expertise.
-Chaque article reçoit au moins 3 évaluations détaillées.
+Les membres du comité de lecture doivent être invités à annoncer leurs intérêts pour les articles soumis (*bidding*). Les présidents du comité de lecture allouent les articles aux membres du comité de lecture selon leurs intérêts et leur expertise.
+Chaque article reçoit au moins 3 évaluations détaillées et constructives.
 Le processus d'évaluation ne doit pas viser un taux d'acceptation choisi à l'avance mais de garantir un niveau de qualité minimal des travaux.
-Le processus d'évaluation doit être le plus ouvert possible et permettre à tous les membres du comité de programme d'accéder à toutes les évaluations pour lesquelles aucun conflit n'aura été préalablement déclaré.
+Le processus d'évaluation doit être le plus ouvert possible et permettre à tous les membres du comité de lecture d'accéder à toutes les évaluations pour lesquelles aucun conflit n'aura été préalablement déclaré.
 
 Le président du comité d’organisation est responsable, en concertation avec le comité de pilotage, de veiller aux respects des dates limites pour l’envoi des appels à communication et participation, ainsi que toutes les opérations de publicité.
 
