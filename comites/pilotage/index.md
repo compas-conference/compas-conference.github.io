@@ -21,6 +21,7 @@ tagline: comite pilotage
 * *Alain* **Tchana** (Organisateur 2018, Toulouse)
 
 ## Anciens membres
+* *Fabien* **Hermenier** (Organisateur 2017, Nice)
 * *André-Luc* **Beylot** (Représentant GDR RSD, 07/2015 - 10/2020)
 * *Loïc* **Lagadec** (Représentant Architecture, 07/2015 - 04/2018)
 * *Romain* **Rouvoy** (Organisateur 2015, Lille, 07/2015 - 07/2018)
