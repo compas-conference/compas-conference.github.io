@@ -13,10 +13,10 @@ tagline: comite pilotage
 * *Emmanuel* **Agullo** (Représentant Parallélisme, Bordeaux, depuis 07/2019)
 
 ### Membres es-qualité
-* *Sonia* **Ben Mokhtar** (Représentante GDR RSD, Toulouse)
+* *Sonia* **Ben Mokhtar** (Représentante GDR RSD, Lyon)
 * *Kevin* **Martin** (Représentant GDR SOC², Lorient)
 * *Étienne* **Rivière** (Représentant ASF, Bruxelles)
-* *Fabien* **Hermenier** (Organisateur 2017, Nice)
+* *Frédéric* **Suter** (Organisateur 2020, Lyon)
 * *Philippe* **Roose** (Organisateur 2019, Anglet)
 * *Alain* **Tchana** (Organisateur 2018, Toulouse)
 
