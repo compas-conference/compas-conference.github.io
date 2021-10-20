@@ -16,7 +16,7 @@ tagline: comite pilotage
 * *Sonia* **Ben Mokhtar** (Représentante GDR RSD, Lyon)
 * *Kevin* **Martin** (Représentant GDR SOC², Lorient)
 * *Étienne* **Rivière** (Représentant ASF, Bruxelles)
-* *Frédéric* **Suter** (Organisateur 2020, Lyon)
+* *Frédéric* **Suter** (Organisateur 2021, Lyon)
 * *Philippe* **Roose** (Organisateur 2019, Anglet)
 * *Alain* **Tchana** (Organisateur 2018, Toulouse)
 
