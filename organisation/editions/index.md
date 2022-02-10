@@ -3,6 +3,7 @@ layout: base
 title: Compas conference
 tagline: editions
 ---
+* **Compas 2022** : [Amiens](https://2022.compas-conference.fr)
 * **Compas 2021** : [Lyon](http://2021.compas-conference.fr/) (distanciel)
 * **Compas 2020** : [Lyon](http://2020.compas-conference.fr/) (annulé)
 * **Compas 2019** : [Anglet](http://2019.compas-conference.fr/)
