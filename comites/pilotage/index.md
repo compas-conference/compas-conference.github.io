@@ -9,18 +9,20 @@ tagline: comite pilotage
 ### Membres élus 
 
 * *Bertrand* **Le Gal** (Représentant Architecture, Bordeaux, depuis 01/2022)
-* TBD (Représentant·e Système)
+* *Gaël* **Thomas** TBD (Représentant Système, Paris, depuis 12/2022)
 * *Emmanuel* **Agullo** (Représentant Parallélisme, Bordeaux, depuis 07/2019)
 
 ### Membres es-qualité
+
 * *Sonia* **Ben Mokhtar** (Représentante GDR RSD, Lyon)
 * *Kevin* **Martin** (Représentant GDR SOC², Lorient)
 * *Étienne* **Rivière** (Représentant ASF, Bruxelles)
+* *Gil* **Utard** (Organisateur 2022, Amiens)
 * *Frédéric* **Suter** (Organisateur 2021, Lyon)
 * *Philippe* **Roose** (Organisateur 2019, Anglet)
-* *Alain* **Tchana** (Organisateur 2018, Toulouse)
 
 ## Anciens membres
+
 * *Fabien* **Hermenier** (Organisateur 2017, Nice)
 * *André-Luc* **Beylot** (Représentant GDR RSD, 07/2015 - 10/2020)
 * *Loïc* **Lagadec** (Représentant Architecture, 07/2015 - 04/2018)
@@ -28,5 +30,6 @@ tagline: comite pilotage
 * *Laurent* **Réveillère** (Représentant Système, Bordeaux, 07/2015 - 07/2019, *Président* )
 * *Philippe* **Coussy** (Organisateur 2016, Lorient)
 * *Cédric* **Tedeschi** (Représentant Parallélisme, Rennes, 07/2015 - 07/2019)
-* *Gilles* **Muller** (Représentant Système et président, Rennes, 07/2019 - 12/2021)
+* *Gilles* **Muller** (Représentant Système, Rennes, 07/2019 - 12/2021, *Président* )
 * *Caroline* **Collange** (Représentante Architecture, Rennes, 04/2018 - 01/2022)
+* *Alain* **Tchana** (Organisateur 2018, Toulouse)
