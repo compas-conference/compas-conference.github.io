@@ -9,7 +9,7 @@ tagline: comite pilotage
 ### Membres élus 
 
 * *Bertrand* **Le Gal** (Représentant Architecture, Bordeaux, depuis 01/2022)
-* *Gaël* **Thomas** TBD (Représentant Système, Paris, depuis 12/2022)
+* *Gaël* **Thomas** (Représentant Système, Paris, depuis 12/2022)
 * *Emmanuel* **Agullo** (Représentant Parallélisme, Bordeaux, depuis 07/2019)
 
 ### Membres es-qualité
@@ -31,7 +31,6 @@ tagline: comite pilotage
 * *Loïc* **Lagadec** (Représentant Architecture, 07/2015 - 04/2018)
 * *Gilles* **Muller** (Représentant Système, Rennes, 07/2019 - 12/2021, *Président* )
 * *Laurent* **Réveillère** (Représentant Système, Bordeaux, 07/2015 - 07/2019, *Président* )
-* *Caroline* **Collange** (Représentante Architecture, Rennes, 04/2018 - 01/2022)
 * *Romain* **Rouvoy** (Organisateur 2015, Lille, 07/2015 - 07/2018)
 * *Alain* **Tchana** (Organisateur 2018, Toulouse)
 * *Cédric* **Tedeschi** (Représentant Parallélisme, Rennes, 07/2015 - 07/2019)
