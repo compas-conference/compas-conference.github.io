@@ -17,9 +17,9 @@ tagline: comite pilotage
 * *Sonia* **Ben Mokhtar** (Représentante GDR RSD, Lyon)
 * *Kevin* **Martin** (Représentant GDR SOC², Lorient)
 * *Étienne* **Rivière** (Représentant ASF, Bruxelles)
+* *Sébastien* **Monnet** (Organisateur 2023, Annecy)
 * *Gil* **Utard** (Organisateur 2022, Amiens)
 * *Frédéric* **Suter** (Organisateur 2021, Lyon)
-* *Philippe* **Roose** (Organisateur 2019, Anglet)
 
 ## Anciens membres
 
@@ -31,6 +31,7 @@ tagline: comite pilotage
 * *Loïc* **Lagadec** (Représentant Architecture, 07/2015 - 04/2018)
 * *Gilles* **Muller** (Représentant Système, Rennes, 07/2019 - 12/2021, *Président* )
 * *Laurent* **Réveillère** (Représentant Système, Bordeaux, 07/2015 - 07/2019, *Président* )
+* *Philippe* **Roose** (Organisateur 2019, 07/2019 - 07/2023, Anglet)
 * *Romain* **Rouvoy** (Organisateur 2015, Lille, 07/2015 - 07/2018)
 * *Alain* **Tchana** (Organisateur 2018, Toulouse)
 * *Cédric* **Tedeschi** (Représentant Parallélisme, Rennes, 07/2015 - 07/2019)
