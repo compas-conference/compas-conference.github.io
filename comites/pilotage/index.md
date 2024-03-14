@@ -14,7 +14,7 @@ tagline: comite pilotage
 
 ### Membres es-qualité
 
-* *Sonia* **Ben Mokhtar** (Représentante GDR RSD, Lyon)
+* *Pierre* **Sens** (Représentant GDR RSD, Paris)
 * *Kevin* **Martin** (Représentant GDR SOC², Lorient)
 * *Étienne* **Rivière** (Représentant ASF, Bruxelles)
 * *Sébastien* **Monnet** (Organisateur 2023, Annecy)
@@ -23,6 +23,7 @@ tagline: comite pilotage
 
 ## Anciens membres
 
+* *Sonia* **Ben Mokhtar** (Représentante GDR RSD, Lyon, - 02/2024)
 * *Fabien* **Hermenier** (Organisateur 2017, Nice)
 * *André-Luc* **Beylot** (Représentant GDR RSD, 07/2015 - 10/2020)
 * *Caroline* **Collange** (Représentante Architecture, Rennes, 04/2018 - 01/2022)

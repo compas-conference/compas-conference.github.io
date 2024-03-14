@@ -4,7 +4,7 @@ title: Compas conference
 tagline: editions
 ---
 
-* **Compas 2024** : Nantes
+* **Compas 2024** : Nantes (du mardi 2 au vendredi 5 juillet 2024)
 * **Compas 2023** : [Annecy](https://2023.compas-conference.fr)
 * **Compas 2022** : [Amiens](https://2022.compas-conference.fr)
 * **Compas 2021** : [Lyon](http://2021.compas-conference.fr/) (distanciel)
