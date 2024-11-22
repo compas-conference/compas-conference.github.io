@@ -10,7 +10,7 @@ tagline: comite pilotage
 
 * *Bertrand* **Le Gal** (Représentant Architecture, Lannion, depuis 01/2022)
 * *Gaël* **Thomas** (Représentant Système, Paris, depuis 12/2022, *Président* )
-* *Emmanuel* **Agullo** (Représentant Parallélisme, Bordeaux, depuis 07/2019)
+* *François* **Trahay** (Représentant Parallélisme, Paris, depuis 10/2024)
 
 ### Membres es-qualité
 
