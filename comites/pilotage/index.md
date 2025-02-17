@@ -23,6 +23,7 @@ tagline: comite pilotage
 
 ## Anciens membres
 
+* *Emmanuel* **Agullo** (Représentant Parallélisme, Bordeaux, 07/2019 - 10/2024)
 * *Sonia* **Ben Mokhtar** (Représentante GDR RSD, Lyon, - 02/2024)
 * *André-Luc* **Beylot** (Représentant GDR RSD, 07/2015 - 10/2020)
 * *Caroline* **Collange** (Représentante Architecture, Rennes, 04/2018 - 01/2022)
@@ -37,3 +38,4 @@ tagline: comite pilotage
 * *Frédéric* **Suter** (Organisateur 2021, Lyon)
 * *Alain* **Tchana** (Organisateur 2018, Toulouse)
 * *Cédric* **Tedeschi** (Représentant Parallélisme, Rennes, 07/2015 - 07/2019)
+
