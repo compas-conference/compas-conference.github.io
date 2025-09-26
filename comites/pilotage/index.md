@@ -17,12 +17,13 @@ tagline: comite pilotage
 * *Pierre* **Sens** (Représentant GDR RSD, Paris)
 * *Daniel* **Chillet** (Représentant GDR SOC², Lannion)
 * *Étienne* **Rivière** (Représentant ASF, Bruxelles)
+* *Philippe* **Swartvagher** (Organisateur 2025, Borderaux)
 * *Sébastien* **Pillement** (Organisateur 2024, Nantes)
 * *Sébastien* **Monnet** (Organisateur 2023, Annecy)
-* *Gil* **Utard** (Organisateur 2022, Amiens)
 
 ## Anciens membres
 
+* *Gil* **Utard** (Organisateur 2022, Amiens)
 * *Emmanuel* **Agullo** (Représentant Parallélisme, Bordeaux, 07/2019 - 10/2024)
 * *Sonia* **Ben Mokhtar** (Représentante GDR RSD, Lyon, - 02/2024)
 * *André-Luc* **Beylot** (Représentant GDR RSD, 07/2015 - 10/2020)
