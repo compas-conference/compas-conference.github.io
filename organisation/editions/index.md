@@ -4,6 +4,7 @@ title: Compas conference
 tagline: editions
 ---
 
+* **Compas 2026** : [Anglet](https://2026.compas-conference.fr)
 * **Compas 2025** : [Bordeaux](https://2025.compas-conference.fr)
 * **Compas 2024** : [Nantes](https://2024.compas-conference.fr)
 * **Compas 2023** : [Annecy](https://2023.compas-conference.fr)
