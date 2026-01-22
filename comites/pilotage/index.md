@@ -17,7 +17,7 @@ tagline: comite pilotage
 * *Pierre* **Sens** (Représentant GDR RSD, Paris)
 * *Daniel* **Chillet** (Représentant GDR SOC², Lannion)
 * *Étienne* **Rivière** (Représentant ASF, Bruxelles)
-* *Philippe* **Swartvagher** (Organisateur 2025, Borderaux)
+* *Philippe* **Swartvagher** (Organisateur 2025, Bordeaux)
 * *Sébastien* **Pillement** (Organisateur 2024, Nantes)
 * *Sébastien* **Monnet** (Organisateur 2023, Annecy)
 
