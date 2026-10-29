@@ -49,7 +49,7 @@ Compas propose deux options aux membres de la communauté pour présenter leurs 
 
 ### Langue
 
-Les articles et résumés soumis peuvent utiliser indifféremment le français ou l'anglais. Les auteurs francophones doivent être encouragés à présenter leurs travaux en français quelle que soit la langue utilisée pour la contribution.
+Les articles et résumés soumis peuvent utiliser indifféremment le français ou l’anglais. La langue de présentation usuelle est le français, mais les orateurs peuvent présenter en anglais.
 
 ### Format des contributions
 
